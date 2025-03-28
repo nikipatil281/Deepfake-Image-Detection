@@ -11,3 +11,5 @@ dataset/
 # Ignore virtual environments (if any)
 venv/
 __pycache__/
+
+.ipynb_checkpoints/
