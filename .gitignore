@@ -1,0 +1,13 @@
+# Ignore dataset
+dataset/
+
+# Ignore system files
+.DS_Store
+
+# Ignore model checkpoints (optional if too big)
+*.h5
+*.ckpt
+
+# Ignore virtual environments (if any)
+venv/
+__pycache__/
