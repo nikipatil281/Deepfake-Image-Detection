@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## ⚙️ Usage
 
-### 🔧 Training the Model
+### Training the Model
 
 To train the model from scratch:
 - Open and run the Jupyter notebook: `notebooks/train_model.ipynb`
@@ -85,7 +85,7 @@ To train the model from scratch:
 - You’ll see training progress, accuracy score and losses.
 - The trained model will be saved automatically (as a `.pth` file).
 
-### 🧪 Testing with Pretrained Model
+### Testing with Pretrained Model
 
 To test our pretrained model:
 - Load the notebook: `notebooks/Predict_real_or_fake.ipynb`
