@@ -11,7 +11,7 @@ DeepTruth leverages **state-of-the-art deep learning models** trained on diverse
   - [📝 Description](#-description)
   - [📚 Table of Contents](#-table-of-contents)
   - [🗂️ Data Sources](#️-data-sources)
-  - [Features](#features)
+  - [⭐️ Features](#features)
   - [📦 Installation](#-installation)
   - [⚙️ Usage](#️-usage)
   - [🧰 Dependencies](#-dependencies)
@@ -41,7 +41,7 @@ DeepTruth is trained and evaluated on a combination of **real and synthetic face
 - **Generated Faces from Online Sources**  
   - Additional AI-generated face images sourced from:  ThisPersonDoesNotExist  
 
-## Features
+## ⭐️ Features
 
 - **Excellent Generalization** across unseen DeepFake types and datasets  
   - No fully pre-trained deep learning model was used  
