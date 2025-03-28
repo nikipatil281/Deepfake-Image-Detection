@@ -11,13 +11,9 @@ DeepTruth leverages **state-of-the-art deep learning models** trained on diverse
   - [📝 Description](#-description)
   - [📚 Table of Contents](#-table-of-contents)
   - [🗂️ Data Sources](#️-data-sources)
-    - [**Real Face Datasets:**](#real-face-datasets)
-    - [**Synthetic (AI-Generated) Face Datasets:**](#synthetic-ai-generated-face-datasets)
   - [Features](#features)
   - [📦 Installation](#-installation)
   - [⚙️ Usage](#️-usage)
-    - [🔧 Training the Model](#-training-the-model)
-    - [🧪 Testing with Pretrained Model](#-testing-with-pretrained-model)
   - [🧰 Dependencies](#-dependencies)
   - [📬 Contact](#-contact)
 
