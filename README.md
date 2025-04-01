@@ -77,7 +77,8 @@ pip install -r requirements.txt
 ## ⚙️ Usage
 
 ### Training the Model
-
+First step: 
+- clone the git repo Real-ESRGAN that is used for upscaling - run `git clone 'https://github.com/xinntao/Real-ESRGAN.git` in the terminal
 To train the model from scratch:
 - Open and run the Jupyter notebook: `notebooks/train_model.ipynb`
 - Make sure the dataset paths are correctly set inside the notebook.
